@@ -1,0 +1,9 @@
+button {
+  font-family: sans-serif;
+  font-size: 2rem;
+  color: #ffffff;
+  background-color: #000000;
+  border: 8px dashed red;
+  width: 12rem;
+  height: 12rem;
+}
